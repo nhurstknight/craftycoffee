@@ -1,0 +1,22 @@
+dateModified: 1631104500
+email:
+  fromEmail: hurstknight@gmail.com
+  fromName: 'Crafty Coffee'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    1f645c59-b9cd-4aed-9092-665817a1778d: 'Crafty Coffee' # Crafty Coffee
+    275a9ded-9e5a-40ce-9267-873ffe346345: Common # Common
+    76448c4b-5e92-41aa-bfef-144fa20ddb13: 'Crafty Coffee' # Crafty Coffee
+system:
+  edition: solo
+  live: true
+  name: 'Crafty Coffee'
+  schemaVersion: 3.7.8
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

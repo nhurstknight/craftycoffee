@@ -1,14 +1,20 @@
-dateModified: 1631177675
+dateModified: 1631273683
 email:
   fromEmail: hurstknight@gmail.com
   fromName: 'Crafty Coffee'
   transportType: craft\mail\transportadapters\Sendmail
 meta:
   __names__:
+    1f5b2c5b-56e1-40e7-94ba-b99a7aa02f55: Default # Default
     1f645c59-b9cd-4aed-9092-665817a1778d: 'Crafty Coffee' # Crafty Coffee
+    4a9ad59f-80bf-4348-8669-39835237026e: Subtitle # Subtitle
     5e6db385-412e-49fa-b6b9-463311e9d586: News # News
+    06c115e3-6c55-46bb-bf5e-0fab33957a9a: '840x200 Thumb' # 840x200 Thumb
+    6d11b377-a9c3-4a02-af68-2581ca33038f: Drinks # Drinks
+    6d7448ac-8514-48c0-9766-05f425f80a31: 'Page Intro' # Page Intro
     25f5646b-ae71-495e-b9eb-134db66415fb: Homepage # Homepage
     063f418b-8407-4199-991a-98be0f14bde8: Homepage # Homepage
+    71a42095-b766-4d07-98aa-b21fd8420e79: 'Drink Image' # Drink Image
     82f76692-98c8-430e-8bc9-112e85f285ad: Default # Default
     275a9ded-9e5a-40ce-9267-873ffe346345: Common # Common
     7437c837-2418-4e22-9b5d-ad9f84fb3148: 'Page Copy' # Page Copy
@@ -17,8 +23,10 @@ meta:
     a7a0909f-513a-4907-8dc4-889b144027ee: Drinks # Drinks
     b6f75a92-e19c-481c-802c-b1c6d396042d: 'News Body' # News Body
     b75f9ab2-690e-4c40-9c60-63ad292e6e2b: Excerpt # Excerpt
+    b49369c3-3f8a-4968-9701-8870142d87c1: About # About
     d009f680-1d1d-4eb3-ac80-72e4d1e89f49: Introduction # Introduction
     d9e8a742-bf54-49e4-9b25-9feab611db7e: Drinks # Drinks
+    e77090a1-435e-4a3d-82c2-a2288b813371: 'About Crafty Coffee' # About Crafty Coffee
     fdecf2b7-0785-4d91-bc55-20a9356cf63d: News # News
 plugins:
   redactor:

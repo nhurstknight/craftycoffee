@@ -1,16 +1,16 @@
 defaultPlacement: end
 enableVersioning: true
-handle: drinks
-name: Drinks
+handle: aboutCraftyCoffee
+name: 'About Crafty Coffee'
 previewTargets:
   -
     __assoc__:
       -
         - label
-        - Drinks
+        - 'Primary entry page'
       -
         - urlFormat
-        - 'drinks/{slug}'
+        - '{url}'
       -
         - refresh
         - '1'
@@ -19,6 +19,9 @@ siteSettings:
   76448c4b-5e92-41aa-bfef-144fa20ddb13: # Crafty Coffee
     enabledByDefault: true
     hasUrls: true
-    template: drinks/_entry
-    uriFormat: 'drinks/{slug}'
-type: channel
+    template: about/_entry
+    uriFormat: '{parent.uri}/{slug}'
+structure:
+  maxLevels: null
+  uid: 366d0654-627d-4aac-86b6-2c97ae2c1ccf
+type: structure

@@ -1,0 +1,19 @@
+columnSuffix: fdacqcag
+contentColumnType: text
+fieldGroup: b49369c3-3f8a-4968-9701-8870142d87c1 # About
+handle: subtitle
+instructions: ''
+name: Subtitle
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

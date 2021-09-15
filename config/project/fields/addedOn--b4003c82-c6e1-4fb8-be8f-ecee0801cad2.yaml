@@ -1,0 +1,19 @@
+columnSuffix: whzanior
+contentColumnType: text
+fieldGroup: a7a0909f-513a-4907-8dc4-889b144027ee # Drinks
+handle: addedOn
+instructions: ''
+name: 'Added to the menu on'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

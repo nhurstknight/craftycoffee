@@ -1,0 +1,24 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: e16727ac-0100-41be-9488-29f0c3c7dd00 # Styles
+handle: drinkStyle
+instructions: ''
+name: 'Drink Style'
+searchable: false
+settings:
+  allowLimit: false
+  allowMultipleSources: false
+  allowSelfRelations: false
+  branchLimit: '1'
+  limit: null
+  localizeRelations: false
+  selectionLabel: 'Add a drink style'
+  showSiteMenu: false
+  source: 'group:8c8857d8-1883-4edc-8acd-fe6a7c2f17e4' # Drink Styles
+  sources: '*'
+  targetSiteId: null
+  validateRelatedElements: false
+  viewMode: null
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Categories

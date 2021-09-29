@@ -1,34 +1,55 @@
-dateModified: 1631694310
+dateModified: 1632845619
 email:
   fromEmail: hurstknight@gmail.com
   fromName: 'Crafty Coffee'
   transportType: craft\mail\transportadapters\Sendmail
 meta:
   __names__:
+    00e5beea-a985-4c4e-a0aa-7783faa5772d: 'Body Content' # Body Content
     1f5b2c5b-56e1-40e7-94ba-b99a7aa02f55: Default # Default
     1f645c59-b9cd-4aed-9092-665817a1778d: 'Crafty Coffee' # Crafty Coffee
+    2ab7589f-2dc7-4b1f-a04a-a050396999ce: 'Recipe Copy' # Recipe Copy
     4a9ad59f-80bf-4348-8669-39835237026e: Subtitle # Subtitle
     5e6db385-412e-49fa-b6b9-463311e9d586: News # News
     06c115e3-6c55-46bb-bf5e-0fab33957a9a: '840x200 Thumb' # 840x200 Thumb
     6d11b377-a9c3-4a02-af68-2581ca33038f: Drinks # Drinks
     6d7448ac-8514-48c0-9766-05f425f80a31: 'Page Intro' # Page Intro
+    8c8857d8-1883-4edc-8acd-fe6a7c2f17e4: 'Drink Styles' # Drink Styles
+    9ae3fca8-71b9-49a7-bc79-f5d60fc5031d: 'Recipe Tip' # Recipe Tip
+    9bf408fd-8efb-4eac-978a-f662e41a84c6: Recipes # Recipes
     25f5646b-ae71-495e-b9eb-134db66415fb: Homepage # Homepage
     063f418b-8407-4199-991a-98be0f14bde8: Homepage # Homepage
+    64bd9110-705c-4f4b-b859-81b7ac581912: 'Style Description' # Style Description
     71a42095-b766-4d07-98aa-b21fd8420e79: 'Drink Image' # Drink Image
     82f76692-98c8-430e-8bc9-112e85f285ad: Default # Default
+    85c9f402-49f6-432f-91ea-cd8f44eca6b8: Recipes # Recipes
+    97b5ac09-89a5-45c7-97d0-60eab33770cd: 'Recipe Contents' # Recipe Contents
     275a9ded-9e5a-40ce-9267-873ffe346345: Common # Common
     522c18cb-cc78-448f-9df0-27c57e5a8fe4: Style # Style
+    532d50cd-4a4f-4b8c-b8a3-56d0e5237bb7: Ingredients # Ingredients
+    2185cad5-c9c9-4fdb-a6b9-42df636d4cb2: 'Recipe Image' # Recipe Image
     7437c837-2418-4e22-9b5d-ad9f84fb3148: 'Page Copy' # Page Copy
+    12859ba3-1f31-4358-8c7a-a5820a42597a: 'Recipe Steps' # Recipe Steps
     31120e9a-2888-4e7f-a0e5-b74b8039ef1e: Default # Default
     76448c4b-5e92-41aa-bfef-144fa20ddb13: 'Crafty Coffee' # Crafty Coffee
+    95810186-48be-4895-b549-e370f02a8044: 'Drink Recipe' # Drink Recipe
+    a6c581b8-9017-426c-8dc4-3536bc4a5b38: 'Steps Content' # Steps Content
     a7a0909f-513a-4907-8dc4-889b144027ee: Drinks # Drinks
+    b1f8331f-0cd9-4e1f-ba40-6705279cb732: 'Image Caption' # Image Caption
     b6f75a92-e19c-481c-802c-b1c6d396042d: 'News Body' # News Body
     b75f9ab2-690e-4c40-9c60-63ad292e6e2b: Excerpt # Excerpt
     b4003c82-c6e1-4fb8-be8f-ecee0801cad2: 'Added to the menu on' # Added to the menu on
     b49369c3-3f8a-4968-9701-8870142d87c1: About # About
+    c23cad16-4d30-4e7b-9089-b6120d96a84a: 'Recipe Ingredients' # Recipe Ingredients
+    c403b4ab-3b97-46c3-8739-01c0a619b47c: 'Steps Title' # Steps Title
     d009f680-1d1d-4eb3-ac80-72e4d1e89f49: Introduction # Introduction
+    d3c5b4cb-1284-443a-b205-de37cc1afbc3: Recipes # Recipes
     d9e8a742-bf54-49e4-9b25-9feab611db7e: Drinks # Drinks
+    e5c1e2f3-d057-4155-b5c8-dce3118bc6e9: Image # Image
+    e16727ac-0100-41be-9488-29f0c3c7dd00: Styles # Styles
     e77090a1-435e-4a3d-82c2-a2288b813371: 'About Crafty Coffee' # About Crafty Coffee
+    f2f2597f-4bde-4de6-b7fe-24b5e80ed562: 'Tip Content' # Tip Content
+    f55ea06b-fbae-492b-87b7-d926539c2389: 'Drink Style' # Drink Style
     fdecf2b7-0785-4d91-bc55-20a9356cf63d: News # News
 plugins:
   redactor:

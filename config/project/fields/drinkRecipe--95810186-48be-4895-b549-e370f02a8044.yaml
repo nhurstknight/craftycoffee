@@ -1,0 +1,22 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: a7a0909f-513a-4907-8dc4-889b144027ee # Drinks
+handle: drinkRecipe
+instructions: ''
+name: 'Drink Recipe'
+searchable: false
+settings:
+  allowSelfRelations: false
+  limit: '1'
+  localizeRelations: false
+  selectionLabel: 'Add a drink recipe'
+  showSiteMenu: false
+  source: null
+  sources:
+    - 'section:85c9f402-49f6-432f-91ea-cd8f44eca6b8' # Recipes
+  targetSiteId: null
+  validateRelatedElements: false
+  viewMode: null
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Entries

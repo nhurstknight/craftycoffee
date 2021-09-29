@@ -28,8 +28,9 @@
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi aspernatur deleniti dignissimos est explicabo, iure laborum minima natus nihil qui repudiandae, velit voluptatum! Animi id illo illum in maiores velit?</p>
 
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi aspernatur deleniti dignissimos est explicabo, iure laborum minima natus nihil qui repudiandae, velit voluptatum! Animi id illo illum in maiores velit?</p>
-
-        <p><a href="../recipes/recipe-detail.html" class="button primary small radius">Make <i>Perfect Espresso</i> at Home</a></p>
+        
+        {% set drinkRecipe = entry.drinkRecipe.one() %}
+        <p><a href="{{ drinkRecipe.url }}" class="button primary small radius">Make <i>{{ entry.title}}</i> at Home</a></p>
     </div>
 </div>
 

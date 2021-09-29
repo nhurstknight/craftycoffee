@@ -1,0 +1,71 @@
+field: 97b5ac09-89a5-45c7-97d0-60eab33770cd # Recipe Contents
+fieldLayouts:
+  dffac719-5084-4554-b279-af038783ab8d:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: 532d50cd-4a4f-4b8c-b8a3-56d0e5237bb7 # Ingredients
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+fields:
+  532d50cd-4a4f-4b8c-b8a3-56d0e5237bb7: # Ingredients
+    columnSuffix: null
+    contentColumnType: text
+    fieldGroup: null
+    handle: ingredients
+    instructions: ''
+    name: Ingredients
+    searchable: false
+    settings:
+      addRowLabel: 'Add a row'
+      columnType: text
+      columns:
+        __assoc__:
+          -
+            - col2
+            -
+              __assoc__:
+                -
+                  - heading
+                  - Ingredient
+                -
+                  - handle
+                  - ingredient
+                -
+                  - width
+                  - ''
+                -
+                  - type
+                  - singleline
+          -
+            - col1
+            -
+              __assoc__:
+                -
+                  - heading
+                  - Amount
+                -
+                  - handle
+                  - amount
+                -
+                  - width
+                  - ''
+                -
+                  - type
+                  - singleline
+      maxRows: ''
+      minRows: ''
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\Table
+handle: recipeIngredients
+name: 'Recipe Ingredients'
+sortOrder: 5

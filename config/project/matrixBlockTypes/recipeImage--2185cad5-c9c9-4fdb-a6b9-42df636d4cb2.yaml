@@ -1,0 +1,83 @@
+field: 97b5ac09-89a5-45c7-97d0-60eab33770cd # Recipe Contents
+fieldLayouts:
+  669183f2-0c41-473b-b64a-2ddd5d30a3a0:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: e5c1e2f3-d057-4155-b5c8-dce3118bc6e9 # Image
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: b1f8331f-0cd9-4e1f-ba40-6705279cb732 # Image Caption
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+fields:
+  b1f8331f-0cd9-4e1f-ba40-6705279cb732: # Image Caption
+    columnSuffix: null
+    contentColumnType: text
+    fieldGroup: null
+    handle: imageCaption
+    instructions: ''
+    name: 'Image Caption'
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: ''
+      columnType: null
+      initialRows: '4'
+      multiline: ''
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+  e5c1e2f3-d057-4155-b5c8-dce3118bc6e9: # Image
+    columnSuffix: null
+    contentColumnType: string
+    fieldGroup: null
+    handle: image
+    instructions: ''
+    name: Image
+    searchable: false
+    settings:
+      allowSelfRelations: false
+      allowUploads: true
+      allowedKinds: null
+      defaultUploadLocationSource: 'volume:6d11b377-a9c3-4a02-af68-2581ca33038f' # Drinks
+      defaultUploadLocationSubpath: ''
+      limit: '1'
+      localizeRelations: false
+      previewMode: full
+      restrictFiles: ''
+      selectionLabel: ''
+      showSiteMenu: true
+      showUnpermittedFiles: false
+      showUnpermittedVolumes: false
+      singleUploadLocationSource: 'volume:6d11b377-a9c3-4a02-af68-2581ca33038f' # Drinks
+      singleUploadLocationSubpath: ''
+      source: null
+      sources: '*'
+      targetSiteId: null
+      useSingleFolder: false
+      validateRelatedElements: false
+      viewMode: list
+    translationKeyFormat: null
+    translationMethod: site
+    type: craft\fields\Assets
+handle: recipeImage
+name: 'Recipe Image'
+sortOrder: 1

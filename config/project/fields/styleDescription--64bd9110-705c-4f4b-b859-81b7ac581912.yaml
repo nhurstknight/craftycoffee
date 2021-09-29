@@ -1,0 +1,19 @@
+columnSuffix: lnshbcoz
+contentColumnType: text
+fieldGroup: e16727ac-0100-41be-9488-29f0c3c7dd00 # Styles
+handle: styleDescription
+instructions: ''
+name: 'Style Description'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: '1'
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText
